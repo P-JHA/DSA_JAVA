@@ -1,3 +1,5 @@
+package DSA_JAVA;
+
 // In a Program, input 3 numbers : A,B and C. You have to output the average of these 3 Numbers.
 
 import java.util.*;
