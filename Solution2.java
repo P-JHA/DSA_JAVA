@@ -1,3 +1,5 @@
+package DSA_JAVA;
+
 // In a Program, input the size of a Square. You have to output the area of the square.
 
 import java.util.*;
