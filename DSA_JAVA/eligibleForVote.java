@@ -1,3 +1,5 @@
+package DSA_JAVA;
+
 import java.util.Scanner;
 
 //Eligible for voting or not
