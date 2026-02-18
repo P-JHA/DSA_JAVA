@@ -1,5 +1,3 @@
-package DSA_JAVA;
-
 import java.util.Scanner;
 
 // Write a Java Program to get a number from the user and print whether it is a postive or negative 

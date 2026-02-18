@@ -1,5 +1,3 @@
-package DSA_JAVA;
-
 //Income Tax Calculator
 
 import java.util.Scanner;

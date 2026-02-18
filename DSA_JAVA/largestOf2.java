@@ -1,5 +1,3 @@
-package DSA_JAVA;
-
 // Print the largest of 2
 
 import java.util.Scanner;

@@ -1,5 +1,3 @@
-package DSA_JAVA;
-
 // Enter cost of 3 items from the user (using float data types) a pencil, a pen, and a earaser. You have to output the total cost of the items back to the user as their bill.
 import java.util.*;
 
