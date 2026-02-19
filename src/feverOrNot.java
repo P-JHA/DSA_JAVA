@@ -1,3 +1,4 @@
+package src;
 //You have a fever if your temperaure is above 100 and otherwise prints you don't have a fever
 
 import java.util.Scanner;

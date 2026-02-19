@@ -1,4 +1,4 @@
-package DSA_JAVA;
+package src;
 import java.util.Scanner;
 
 //Print if a number is odd or even

@@ -1,3 +1,4 @@
+package src;
 //Income Tax Calculator
 
 import java.util.Scanner;
