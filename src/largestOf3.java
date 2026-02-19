@@ -1,3 +1,4 @@
+package src;
 // Print the largest of 3
 
 import java.util.Scanner;
@@ -14,11 +15,12 @@ public class largestOf3 {
 
         if (a > b && a >= 0) {
             System.out.println("A is greatest" + a);
-        } else if (b > -a && b >= c) {
+        } else if (b >=a && b >= c) {
             System.out.println("B is greatest" + b);
         } else {
             System.out.println("C is greatest" + c);
         }
+        sc.close();
 
     }
 }
