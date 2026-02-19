@@ -1,5 +1,7 @@
 package src;
 
+//Keep Entering number till user enters a multiple of 10.
+
 import java.util.Scanner;
 
 public class numberTillUser {
