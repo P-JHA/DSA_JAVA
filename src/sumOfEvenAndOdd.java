@@ -1,5 +1,7 @@
 package src;
 
+//Write a Program that reads a set of integers and then prints the sum of the even and odd integers
+
 import java.util.Scanner;
 
 public class sumOfEvenAndOdd {
