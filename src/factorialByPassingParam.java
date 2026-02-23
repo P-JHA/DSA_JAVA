@@ -11,6 +11,7 @@ public class factorialByPassingParam {
     }
 
     public static void main(String[] args) {
+        System.out.println("The Factorial is:  ");
         System.out.println(factorial(4));
     }
 }
