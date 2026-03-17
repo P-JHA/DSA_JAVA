@@ -2,7 +2,7 @@ package src;
 
 public class selectionSort {
 
-    public static void selectionSort(int arr[]) {
+    public static void selectionsort(int arr[]) {
         for (int i = 0; i < arr.length - 1; i++) {
             int minPos = i;
 
@@ -28,7 +28,7 @@ public class selectionSort {
 
     public static void main(String[] args) {
         int arr[] = {5, 4, 1, 3, 2};
-        selectionSort(arr);
+        selectionsort(arr);
         printArr(arr);
     }
 }
