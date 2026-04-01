@@ -17,5 +17,6 @@ public class largestOf2 {
         }else{
             System.out.println("a and b is equal");
         }
+        sc.close();
     }
 }

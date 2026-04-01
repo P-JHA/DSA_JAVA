@@ -14,5 +14,6 @@ public class Solution1 {
         int c= sc.nextInt();
         int avg = ((a+b+c)/3);
         System.out.println("The average is:" + avg);
+        sc.close();
     }
 }

@@ -13,6 +13,7 @@ public class palindrome {
         } else {
             System.out.println("Number : " + palindrome + "is not a palindrome");
         }
+        sc.close();
     }
 
     public static boolean isPalindrome(int number) {

@@ -12,6 +12,7 @@ public class averageOfThree {
         System.out.println("Input the Third Variable: ");
         double z = sc.nextInt();
         System.out.println("The average of the Variable is : " + average(x,y,z));
+        sc.close();
     }
     public static double average (double x, double y, double z){
         return (x+y+z)/3;

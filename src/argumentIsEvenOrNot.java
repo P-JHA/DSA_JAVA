@@ -15,6 +15,7 @@ public class argumentIsEvenOrNot {
         }else{
             System.out.println("Number is Odd");
         }
+        sc.close();
     }
     public static boolean isEven(int number){
         if(number % 2 ==0){

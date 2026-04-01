@@ -32,5 +32,6 @@ public class calculatorSwitchStatement {
                 System.out.println("Wrong Operator");
                 break;
         }
+        sc.close();
     }
 }

@@ -13,6 +13,7 @@ public class Array2D {
                 System.out.println("Kindly Enter Marks of Class: "+i + "Student"+j);
                 arr[i][j] = sc.nextInt();
             }
+            sc.close();
         }
         System.out.println("Marks are Stored as Below");
 

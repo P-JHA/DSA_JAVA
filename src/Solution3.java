@@ -18,5 +18,6 @@ public class Solution3 {
 
         float newTool = totalCost + (0.18f * totalCost);
         System.out.println("Bill with 18% tax: " +newTool);
+        sc.close();
     }
 }

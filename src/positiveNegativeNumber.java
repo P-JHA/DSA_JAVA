@@ -15,5 +15,6 @@ public class positiveNegativeNumber {
         }else{
             System.out.println("X is less than or equal to 0");
         }
+        sc.close();
     }
 }
