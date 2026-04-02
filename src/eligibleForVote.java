@@ -18,6 +18,7 @@ public class eligibleForVote {
         } else {
             System.out.println("Not Eligible for voting");
         }
+        sc.close();
 
     }
 }
