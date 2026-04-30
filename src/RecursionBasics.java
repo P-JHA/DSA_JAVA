@@ -1,3 +1,5 @@
+package src;
+
 public class RecursionBasics {
 
     public static int lastOccurrence(int arr[], int key, int i) {
