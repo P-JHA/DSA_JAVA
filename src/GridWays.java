@@ -5,7 +5,7 @@ public class GridWays {
         // base case
         if (i == n - 1 && j == m - 1) { // condition for last cell
             return 1;
-        } else if (i == n || j == n) { // boundary cross condition
+        } else if (i == n || j == m) { // boundary cross condition
             return 0;
         }
         int w1 = gridways(i + 1, j, n, m);
